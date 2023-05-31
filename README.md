@@ -80,7 +80,7 @@
   <tr>
    <td align="center" width="110" height="90">
       <a href="#bi-zi">
-        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="36" height="36" alt="React" />
+        <img src="https://brandlogos.net/wp-content/uploads/2020/09/react-logo.png" width="50" height="50" alt="React" />
       </a>
       <br>React JS
     </td>
@@ -98,13 +98,13 @@
     </td>
      <td align="center" width="110" height="90">
       <a href="#bi-zi">
-        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="110" height="90" alt="Zustand" />
+        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="80" height="60" alt="Zustand" />
       </a>
       <br>Zustand
     </td>
     <td align="center" width="110" height="90">
       <a href="#bi-zi">
-        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
+        <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="50" height="50" alt="Sass" />
       </a>
       <br>Sass
     </td>
