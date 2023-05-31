@@ -98,11 +98,10 @@
     </td>
      <td align="center" width="110" height="90">
       <a href="#bi-zi">
-        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="36" height="36" alt="Zustand" />
+        <img src="https://repository-images.githubusercontent.com/180328715/fca49300-e7f1-11ea-9f51-cfd949b31560" width="110" height="90" alt="Zustand" />
       </a>
       <br>Zustand
     </td>
-   </tr>
     <td align="center" width="110" height="90">
       <a href="#bi-zi">
         <img src="https://brandeps.com/icon-download/S/Sass-icon-vector-04.svg" width="36" height="36" alt="Sass" />
